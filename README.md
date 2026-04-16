@@ -1,7 +1,7 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Kate+Mezger!)](https://git.io/typing-svg)
 
 <!--
-**katemezger/katemezger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
