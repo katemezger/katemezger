@@ -1,7 +1,12 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Kate+Mezger!)](https://git.io/typing-svg)
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Milonga&size=34&pause=500&color=4C5F37&background=35312768&center=true&vCenter=true&width=1000&height=100&lines=Hi+there!+%3A);My+name+is+Kate+Mezger+%3C3;Cognitive+Science+Major+%40+UTDallas" alt="Typing SVG" /></a>
 
 <!--
+
+1A2414
+DCCCA3
+4C3209
+4C5F37
+70566D
 
 Here are some ideas to get you started:
 
