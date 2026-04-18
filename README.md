@@ -1,6 +1,5 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Milonga&size=34&pause=500&color=4C5F37&background=35312768&center=true&vCenter=true&width=1000&height=100&lines=Hi+there!+%3A);My+name+is+Kate+Mezger+%3C3;Cognitive+Science+Major+%40+UTDallas" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Milonga&size=34&pause=500&color=4C5F37&background=35312768&center=true&vCenter=true&width=1000&height=100&lines=Hi+there!+%3A);My+name+is+Kate+Mezger+%3C3;Second+Year+%40+UTDallas;Cognitive+Science+Major" alt="Typing SVG" /></a>
 
-<img src="digital_landscape.gif" width="100%" height="200px" style="border-radius: 15px; border: 2px solid #4C5F37;"/>
 
 <!--
 1A2414
@@ -12,23 +11,25 @@ DCCCA3
 ✧
 -->
 
-## *About Me* ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+## *~ About Me* ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.
 
-✧ My name is Kate Mezger, but I also commonly go by the name Eden (They/He/She)
+**✧ Name:** Kate Mezger (also goes by Eden)
 
-✧ I am currently a second-year Cognitive Science student at the University of Texas at Dallas
+**✧ Pronouns:** They/She/He
+
+**✧ Studies:** Second Year @ University of Texas at Dallas as a Cognitive Science student  
+
+**✧ Concentrations:** Intelligent Systems (AI)/Computational Modeling and Human-Computer Interaction
+
+**✧ Focuses:** UI/UX, Frontend, Data Science
   
-  - *Concentrations in Intelligent Systems (AI)/Computational Modeling and Human-Computer Interaction*
+### ✧ If you have any questions, feel free to reach out!
 
-✧ If you have any questions, feel free to reach out!
-
-
-<img src="kitties_with_computer.jpg" width="100%" height="200px" style="border-radius: 15px; border: 2px solid #4C5F37;"/>
+<img src="digital_landscape.gif" width="100%" height="150px" style="border-radius: 15px; border: 2px solid #4C5F37;"/>
 
 
-
-## *Tech Stack* ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+## *~ Tech Stack* ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -61,4 +62,4 @@ DCCCA3
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<img src="digital_koi.gif" width="100%" height="200px" style="border-radius: 15px; border: 2px solid #4C5F37;"/>
+<img src="digital_koi.gif" width="100%" height="150px" style="border-radius: 15px; border: 2px solid #4C5F37;"/>
