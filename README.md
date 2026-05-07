@@ -16,7 +16,7 @@ DCCCA3
 
 **✧ Name:** Kate Mezger (also goes by Eden)
 
-**✧ Pronouns:** They/She/He
+**✧ Pronouns:** They/He/She
 
 **✧ Studies:** Second Year @ University of Texas at Dallas as a Cognitive Science student  
 
