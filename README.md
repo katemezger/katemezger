@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Milonga&size=34&pause=500&color=4C5F37&background=35312768&center=true&vCenter=true&width=1000&height=100&lines=Hi+there!+%3A);My+name+is+Kate+Mezger+%3C3;Third+Year+%40+UTDallas;Cognitive+Science+Major" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Milonga&size=34&pause=500&color=4C5F37&background=35312768&center=true&vCenter=true&width=1000&height=100&lines=Hello+there!+My+name+is+Kate+Mezger!+%3A);Third+year+Cognitive+Science+Major+at+UTDallas+%E2%98%85;Concentrations+in+AI,+HCI+and+Data+Science;if+you+have+any+questions+please+reach+out+%3C3" alt="Typing SVG" /></a>
 
 
 <!--
